@@ -22,6 +22,11 @@ const greet = function() {
     console.log("Hello World");
 }
 
+//Memory allocation stack vs heap
+
+// primitive type store in stack memory.(copy pass)
+// non-primitive type store in heap memory and reference address store in stack memory.(original value)
+
 
 
 
