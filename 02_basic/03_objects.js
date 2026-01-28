@@ -26,6 +26,6 @@ console.log(jsobj.greeting);        //return only function reference.
 console.log(jsobj.greeting());      //return funtion value.
 console.log(jsobj.greetingTwo());
 
-
+ 
 
 
